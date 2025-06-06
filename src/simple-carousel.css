@@ -1,0 +1,25 @@
+li {
+	list-style-type:none;
+}
+
+img {
+	max-height: 480px;
+}
+
+figcaption {
+	font-size: small;
+	margin-top: .5rem;
+	display: flex;
+	justify-content: center;
+}
+
+.carousel-button {
+	margin-left:5px;
+	margin-right:5px;	
+}
+
+.carousel-button-wrapper {
+	margin-top:1rem;
+	justify-content: center;
+	display:flex;
+}
